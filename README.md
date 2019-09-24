@@ -25,3 +25,5 @@ Version 2 loses the LED indicator tabs, and adds a tube to keep as much air on t
 Both versions offer super easy access to all of the phone's buttons.
 
 I've provided both versions.  I'm currently printing version 2.  PETG or ABS recommended.  I've seen people annealing PLA to raise it's temperature resistance.  This might work for you.  (@zorrobyte, that's you!)  I run PETG printed objects under the hood of my Jeep... and it makes a LOT of heat.  PETG is a pretty solid material.  And it doesn't stink.  Or shrink.  How to print them is dependant on your printer - you'll have to figure that out.  Supports are required on FFF printers, sorry.  I've saved the STL files in the positions that I print them in.  You might know or find a better way.  I'd love to see someone print these in SLA.  (If you are interested in printing them in SLA, SLA printers are far more accurate than mine and the tolerances may be too lax.  You might need to use glue for the magnets.)
+
+*** Version 2 is untested as of 2019-09-24, but, should work.  I'm confident in my 3d skills.  (I run a side biz prototyping 3d printed objects.)  I'm expecting to have one ready later today ***
