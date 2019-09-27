@@ -1,10 +1,9 @@
 # mag-mount-fast
 Magnetic mount for OP3T for quick and easy removal from your vehicle.  Two parts, a clamp for the phone, and a mount that stays in the vehicle.
 
-Phones, or devices that look like phones, last about three minutes unattended in vehicles in my area.  Save yourself a broken window and picking glass out of the seat of your pants by using this super simple but effective mount.
+Version 2: https://youtu.be/fHZl98HAYN0
 
-Version 1 requires 4x20-25mm standoffs for the fan, the magnets are too strong and overpower the fan's motor, not allowing it to spin.
-It also has two ugly tabs at the top that I was going to use for LED indicators but they were annoying.  
+Phones, or devices that look like phones, last about three minutes unattended in vehicles in my area.  Save yourself a broken window and picking glass out of the seat of your pants by using this super simple but effective mount.
 
 Version 1 in action: https://www.youtube.com/watch?v=Pu77z3wLCLg
 
@@ -24,6 +23,8 @@ Version 2 loses the LED indicator tabs, and adds a tube to keep as much air on t
 
 Both versions offer super easy access to all of the phone's buttons.
 
-I've provided both versions.  I'm currently printing version 2.  PETG or ABS recommended.  I've seen people annealing PLA to raise it's temperature resistance.  This might work for you.  (@zorrobyte, that's you!)  I run PETG printed objects under the hood of my Jeep... and it makes a LOT of heat.  PETG is a pretty solid material.  And it doesn't stink.  Or shrink.  How to print them is dependant on your printer - you'll have to figure that out.  Supports are required on FFF printers, sorry.  I've saved the STL files in the positions that I print them in.  You might know or find a better way.  I'd love to see someone print these in SLA.  (If you are interested in printing them in SLA, SLA printers are far more accurate than mine and the tolerances may be too lax.  You might need to use glue for the magnets.)
+I've provided both versions.  I'm currently printing version 2.  PETG or ABS recommended.  I've seen people annealing PLA to raise it's temperature resistance.  This might work for you.  (@zorrobyte, that's you!)  I run PETG printed objects under the hood of my Jeep... and it makes a LOT of heat.  PETG is a pretty solid material.  And it doesn't stink.  Or shrink.  How to print them is dependant on your printer - you'll have to figure that out.  Supports are required on FFF printers, sorry.  You might know or find a better way.  I'd love to see someone print these in SLA.  (If you are interested in printing them in SLA, SLA printers are far more accurate than mine and the tolerances may be too lax.  You might need to use glue for the magnets.)
 
 *** Version 2 is very nice.  If I were you, I wouldn't bother with version 1.  Take your time cleaning it up - I broke the first phone clamp I printed earlier.  It's tight, can't have it sliding around.  
+
+edit: 20190926 - removed version 1 because it sucks.  Print the clamp on its side with support from the build plate only.  
