@@ -1,4 +1,4 @@
-# Tunder MagMount v3 slim added!!
+# Tunder MagMount v3 slim added!!  fits Leeco and OnePlus EONs
 
 v3 slim added.  survives 1.4g's longitudinally (launch mode!) and haven't found a pothole or speedbump to shake my EON out yet.
 
@@ -14,7 +14,7 @@ required to complete:
 -5x10x60mm rare earth magnet (fan side)
 -gopro style mount (pick whatever you want)
 
-# Tunder MagMount v2 still around!
+# Tunder MagMount v2 still around!  fits Leeco and OnePlus EONs
 
 same printing recommendations as v3 slim 
 
